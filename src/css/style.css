@@ -1,0 +1,28 @@
+html, body{
+    background-color: black;
+    color: white;
+}
+.container{
+    max-width:1280px;
+    width:100%;
+    height:600px;
+    display:flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin:auto;
+}
+
+
+
+.text1{
+    text-decoration-line: underline;
+}
+
+.row{
+    width: 100%;
+}
+
+.column{
+    border:3px solid tomato;
+    
+}
