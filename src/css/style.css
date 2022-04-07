@@ -12,17 +12,30 @@ html, body{
     margin:auto;
 }
 
-
-
 .text1{
     text-decoration-line: underline;
+    font-size:15px;
+    
 }
 
 .row{
     width: 100%;
 }
 
+.flex{
+    display:flex;
+
+}
+
 .column{
     border:3px solid tomato;
     
+}
+
+div.p{
+    font-size:15px;
+}
+
+h2{
+    font-size:21px;
 }
