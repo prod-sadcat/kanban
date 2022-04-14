@@ -10,6 +10,8 @@ html, body{
     justify-content: flex-start;
     flex-direction: column;
     margin:auto;
+
+    
 }
 
 .text1{
@@ -28,7 +30,14 @@ html, body{
 }
 
 .column{
-    border:3px solid tomato;
+
+
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.12), 0px 16px 32px rgba(0, 0, 0, 0.08);
+border-radius: 8px;
+    background-color: rgb(59, 57, 57);
+    
+   
+   
     
 }
 
@@ -38,4 +47,24 @@ div.p{
 
 h2{
     font-size:21px;
+}
+
+.pink{
+    background-color: #C340A1;
+    
+}
+
+.blue{
+    background-color:#6A6DCD;
+    
+}
+
+.red{
+    background-color: #D93535; 
+
+}
+
+.light{
+    background-color: #307FE2;
+
 }
